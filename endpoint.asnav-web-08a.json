@@ -1,5 +1,8 @@
 {
 	"environment": "08test",
-	"properties": {},
+	"properties": {
+		"endpointToken": "fromEndpoint",
+		"anotherToken": "endpoint override"
+	},
 	"roles": ["web"]
 }
