@@ -1,3 +1,6 @@
 {
-	"properties": {}
+	"properties": {
+		"token": "overriden",
+		"environmentToken" : "yep"
+	}
 }

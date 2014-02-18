@@ -1,3 +1,6 @@
 {
-	"properties" : {}
+	"properties" : {
+		"token": "default value",
+		"anotherToken": "another value"
+	}
 }
