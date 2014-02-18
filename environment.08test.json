@@ -1,5 +1,4 @@
 {
-	"parent": "default",
 	"properties": {
 		"token": "overriden",
 		"environmentToken" : "yep"
