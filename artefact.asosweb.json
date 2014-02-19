@@ -1,4 +1,6 @@
 {
-	"properties": {},
+	"properties": {
+		"artefactToken": "artefact value",
+	},
 	"sequence": 60
 }

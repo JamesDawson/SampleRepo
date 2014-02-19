@@ -1,4 +1,6 @@
 {
-	"properties": {},
+	"properties": {
+		"roleToken":"role value"
+	},
 	"artefacts": ["asosweb"]
 }
