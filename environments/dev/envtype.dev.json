@@ -1,6 +1,5 @@
 {
 	"properties" : {
-		"token": "environmentType",
-		"anotherToken": "DEV"
+		"environmentType": "DEV",
 	}
 }
