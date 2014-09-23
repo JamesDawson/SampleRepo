@@ -1,7 +1,3 @@
 Coming soon...
 
-Playing with webhooks, again!!!
-
-Maybe this time? Maybe........
-
-Please?
+Playing with webhooks should be done now.
